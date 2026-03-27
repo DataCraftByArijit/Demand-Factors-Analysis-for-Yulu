@@ -62,4 +62,7 @@ Yulu has contracted a consulting firm to identify which variables are significan
 
 # Colab Link
  * https://colab.research.google.com/drive/1viiv5B2wgTv4jfNBnBN1kJhtu3ramZc4
+
+# Data Link
+ * https://drive.google.com/file/d/1z69lnaXQJD8WrVST5oM6QZL2QrwbD2a4/view?usp=drive_link
   
